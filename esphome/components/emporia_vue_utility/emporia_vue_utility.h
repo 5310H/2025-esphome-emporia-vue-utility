@@ -36,7 +36,7 @@
 
 // Should this code manage the "wifi" and "link" LEDs?
 // set to false if you want manually manage them elsewhere
-#define USE_LED_PINS true
+#define USE_LED_PINS false
 
 #define LED_PIN_LINK GPIO_NUM_32
 #define LED_PIN_WIFI GPIO_NUM_33
